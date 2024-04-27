@@ -1,3 +1,6 @@
+# My notes
+- Look at the git log for the changes to the keymap
+
 Planck
 ===
 
